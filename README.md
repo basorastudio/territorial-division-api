@@ -28,7 +28,7 @@ Este servicio es un [wrapper](https://es.quora.com/Qu%C3%A9-es-exactamente-un-wr
 
 ```sh
     # Clonar repositorio
-    git clone https://github.com/opticrd/territorial-division-api.git;
+    git clone https://github.com/basorastudio/territorial-division-api;
 ```
 
 2. Declarar y definir las variables de entorno
